@@ -228,9 +228,9 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
     signup_switch: "새로운 계정을 만드세요."
 
   signup:
-#    create_student_header: "Create Student Account"
-#    create_teacher_header: "Create Teacher Account"
-#    create_individual_header: "Create Individual Account"
+    create_student_header: "학생 계정 만들기" # "Create Student Account"
+    create_teacher_header: "선생님 계정 만들기" #"Create Teacher Account"
+    create_individual_header: "개인 계정 만들기" #"Create Individual Account"
     email_announcements: "안내 사항을 메일로 받겠습니다" # {change}
     creating: "계정을 생성 중입니다..."
     sign_up: "등록"
@@ -246,8 +246,8 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    connected_facebook_header: "You've successfully connected with Facebook!"
 #    connected_facebook_p: "Finish signing up so you can log in with your Facebook account."
 #    facebook_exists: "You already have an account associated with Facebook!"
-#    hey_students: "Students, enter the class code from your teacher."
-#    birthday: "Birthday"
+    hey_students: "학생여러분, 선생님께 수업 코드를 받으세요." #"Students, enter the class code from your teacher."
+    birthday: "생일" # "Birthday"
 #    parent_email_blurb: "We know you can't wait to learn programming &mdash; we're excited too! Your parents will receive an email with further instructions on how to create an account for you. Email {{email_link}} if you have any questions."
 #    classroom_not_found: "No classes exist with this Class Code. Check your spelling or ask your teacher for help."
 #    checking: "Checking..."
@@ -269,7 +269,7 @@ module.exports = nativeDescription: "한국어", englishDescription: "Korean", t
 #    student_type_4: "Choose your hero!"
 #    student_type_5: "Have your Class Code ready!"
 #    signup_as_student: "Sign up as a Student"
-#    individuals_or_parents: "Individuals & Parents"
+    individuals_or_parents: "개인 & 부모님" # "Individuals & Parents"
 #    individual_type: "For players learning to code outside of a class. Parents should sign up for an account here."
 #    signup_as_individual: "Sign up as an Individual"
 #    enter_class_code: "Enter your Class Code"
